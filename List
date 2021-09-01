@@ -1,1 +1,4 @@
-local banlist = {866859,975856508}
+game.Players.PlayerAdded:Connect(function()
+print("player joined")
+
+end)
