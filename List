@@ -1,4 +1,1 @@
-game.Players.PlayerAdded:Connect(function()
-print("player joined")
-
-end)
+145440942;145440943
