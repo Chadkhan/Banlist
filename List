@@ -1,5 +1,1 @@
- blacklist = {
- [6866859] = true,
-[1975856508] = true
- }
- return blacklist
+{866859,975856508}
