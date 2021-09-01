@@ -1,2 +1,1 @@
-local banlist = [] -- put people you want banned here USE USERID AND MAKE SURE A COMMA SEPERATES EACH DATA
-
+print("test")
